@@ -15,7 +15,7 @@ Download package file:
 >`wget https://github.com/SynclairVision/machineid-public/raw/main/machineid_1.0.0-1_arm64.deb`
 
 Install:
->`sudo apt-get install ./machineid_1.0.0-1_arm64.deb`
+>`sudo apt-get install openssl ./machineid_1.0.0-1_arm64.deb`
 
 Running:
 >`machineid`
